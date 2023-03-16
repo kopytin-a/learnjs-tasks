@@ -1,1 +1,2 @@
-# learnjs-tasks
+# learnjs-tasks  
+Готовые задачи по JS.
