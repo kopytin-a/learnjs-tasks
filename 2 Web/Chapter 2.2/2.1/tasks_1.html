@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+
+<body>
+
+  <button id="hider">Нажмите, чтобы спрятать текст</button>
+  <div id="text">Текст</div>
+
+  <script>
+    let hider = document.querySelector('#hider')
+    let text = document.querySelector('#text')
+    hider.addEventListener("click", () => {
+      text.innerHTML = ''
+    })
+  </script>
+</body>
+</html>

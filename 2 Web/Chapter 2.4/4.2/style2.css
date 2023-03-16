@@ -1,0 +1,24 @@
+.edit-td .edit-area {
+  border: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+
+
+  resize: none;
+
+
+  outline: none;
+
+
+  overflow: auto;
+}
+
+.edit-controls {
+  position: absolute;
+}
+
+.edit-td {
+  position: relative;
+  padding: 0;
+}
